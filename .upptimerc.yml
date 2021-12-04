@@ -29,5 +29,8 @@ status-website:
 
 robotsText: "User-agent: * \n Disallow: /"
 
+workflowSchedule:
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
