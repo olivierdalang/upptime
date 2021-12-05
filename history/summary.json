@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 898,
-    "timeWeek": 898,
-    "timeMonth": 898,
-    "timeYear": 898,
+    "time": 1121,
+    "timeDay": 1121,
+    "timeWeek": 1121,
+    "timeMonth": 1121,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 701,
-    "timeWeek": 701,
-    "timeMonth": 701,
-    "timeYear": 701,
+    "time": 788,
+    "timeDay": 788,
+    "timeWeek": 788,
+    "timeMonth": 788,
+    "timeYear": 788,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inondations-dakar",
     "status": "up",
-    "uptime": "60.88%",
-    "uptimeDay": "60.88%",
-    "uptimeWeek": "60.88%",
-    "uptimeMonth": "60.88%",
-    "uptimeYear": "60.88%",
-    "time": 910,
-    "timeDay": 910,
-    "timeWeek": 910,
-    "timeMonth": 910,
-    "timeYear": 910,
+    "uptime": "4.08%",
+    "uptimeDay": "4.08%",
+    "uptimeWeek": "4.08%",
+    "uptimeMonth": "4.08%",
+    "uptimeYear": "4.08%",
+    "time": 1059,
+    "timeDay": 1059,
+    "timeWeek": 1059,
+    "timeMonth": 1059,
+    "timeYear": 1059,
     "dailyMinutesDown": {
-      "2021-12-04": 36
+      "2021-12-05": 22,
+      "2021-12-04": 1313
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 941,
-    "timeWeek": 941,
-    "timeMonth": 941,
-    "timeYear": 941,
+    "time": 1133,
+    "timeDay": 1133,
+    "timeWeek": 1133,
+    "timeMonth": 1133,
+    "timeYear": 1133,
     "dailyMinutesDown": {}
   }
 ]
