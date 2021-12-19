@@ -22,19 +22,19 @@
     "url": "$URL_URBADATABASE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "urbadatabase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 761,
-    "timeWeek": 798,
-    "timeMonth": 772,
-    "timeYear": 772,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "97.61%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 796,
+    "timeDay": 907,
+    "timeWeek": 843,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {
-      "2021-12-19": 0
+      "2021-12-19": 34
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 1193,
     "timeYear": 1193,
     "dailyMinutesDown": {
-      "2021-12-19": 136,
+      "2021-12-19": 170,
       "2021-12-18": 1440,
       "2021-12-17": 1440,
       "2021-12-16": 1440,
