@@ -4,10 +4,10 @@
     "url": "$URL_URBASEN",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "urbasen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1039,
@@ -15,26 +15,28 @@
     "timeWeek": 878,
     "timeMonth": 1047,
     "timeYear": 1039,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-16": 2
+    }
   },
   {
     "name": "urbadatabase",
     "url": "$URL_URBADATABASE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "urbadatabase",
-    "status": "up",
-    "uptime": "35.02%",
+    "status": "down",
+    "uptime": "34.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "8.21%",
-    "uptimeYear": "35.02%",
+    "uptimeMonth": "5.30%",
+    "uptimeYear": "34.31%",
     "time": 837,
     "timeDay": 1190,
     "timeWeek": 705,
     "timeMonth": 866,
     "timeYear": 837,
     "dailyMinutesDown": {
-      "2022-01-16": 23,
+      "2022-01-16": 1297,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
@@ -70,7 +72,7 @@
     "url": "$URL_INONDATIONSDAKAR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "inondations-dakar",
-    "status": "up",
+    "status": "down",
     "uptime": "0.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
@@ -82,7 +84,7 @@
     "timeMonth": 1297,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2022-01-16": 24,
+      "2022-01-16": 1297,
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
@@ -133,7 +135,7 @@
     "url": "$URL_PEPINIERES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pepinieres-urbaines",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -144,6 +146,8 @@
     "timeWeek": 1013,
     "timeMonth": 1044,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-16": 0
+    }
   }
 ]
