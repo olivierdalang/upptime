@@ -11,6 +11,8 @@ sites:
     url: $URL_INONDATIONSDAKAR
   - name: pepinieres-urbaines
     url: $URL_PEPINIERES
+  - name: ici-risk-tool
+    url: $URL_ICIRISKTOOL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
