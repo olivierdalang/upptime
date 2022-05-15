@@ -190,7 +190,7 @@
     "timeMonth": 1236,
     "timeYear": 1265,
     "dailyMinutesDown": {
-      "2022-05-15": 834,
+      "2022-05-15": 856,
       "2022-05-14": 1440,
       "2022-05-13": 1440,
       "2022-05-12": 1440,
@@ -392,19 +392,19 @@
     "url": "$URL_ICIRISKTOOL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "ici-risk-tool",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 626,
-    "timeDay": 777,
-    "timeWeek": 597,
-    "timeMonth": 593,
+    "timeDay": 694,
+    "timeWeek": 599,
+    "timeMonth": 594,
     "timeYear": 626,
     "dailyMinutesDown": {
-      "2022-05-15": 0
+      "2022-05-15": 22
     }
   }
 ]
